@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="0576D113A3A298F30A3C1F585F9847348639EF1A">
+
+  <entryPoint>Model</entryPoint>
+
+  <name>Modelling Spread of COVID-19</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2020b)</createdByMATLABRelease>
+
+  <GUID>8691899b-21e0-48a8-b616-d048d0a29068</GUID>
+
+  <supportedPlatforms/>
+
+  <requiredProducts>
+    <product identifier="1" name="MATLAB" version="9.9"/>
+  </requiredProducts>
+
+  <numFiles>1</numFiles>
+
+  <created>2021-01-13T08:40:00Z</created>
+
+  <appEntries>
+    <appFile>/Model.mlapp</appFile>
+  </appEntries>
+
+</appProperties>
